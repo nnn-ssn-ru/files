@@ -1,0 +1,12 @@
+--2024-12-04 01:02:29--  https://habrastorage.org/r/w780/webt/rh/br/4a/rhbr4af5begvsvwmgvhaox41gaq.jpeg
+Resolving habrastorage.org (habrastorage.org)... 45.120.177.159, 2a01:4f9:3b:48e8::4115:7879, 2a01:4f9:4a:2897::5fd9:6b0c
+Connecting to habrastorage.org (habrastorage.org)|45.120.177.159|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 90715 (89K) [image/jpeg]
+Saving to: ‘rhbr4af5begvsvwmgvhaox41gaq.jpeg’
+
+     0K .......... .......... .......... .......... .......... 56% 57.9K 1s
+    50K .......... .......... .......... ........             100%  122K=1.2s
+
+2024-12-04 01:02:32 (75.0 KB/s) - ‘rhbr4af5begvsvwmgvhaox41gaq.jpeg’ saved [90715/90715]
+
